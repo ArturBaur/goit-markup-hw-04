@@ -295,7 +295,6 @@ a.webstudio-link-2 {
 
 .team {
   background: var(--second-white);
-  max-width: 1600px;
   margin: auto;
   height: 708px;
   text-align: center;
@@ -462,13 +461,9 @@ a.webstudio-link-2 {
 
 .projects-card {
 }
-
 .projects-card:hover,
 .projects-card:focus {
-  width: 370px;
-  height: 404px;
   background: #ffffff;
-  border: 1px solid #eeeeee;
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
     1px 4px 6px rgba(0, 0, 0, 0.16);
 }
@@ -512,7 +507,6 @@ a.webstudio-link-2 {
 
 .footer-bg {
   background: var(--background-grey);
-  width: 1600px;
   height: 252px;
   margin: auto;
 }
